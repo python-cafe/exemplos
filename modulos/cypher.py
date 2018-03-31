@@ -1,7 +1,7 @@
 from criptografia import criptografar, cifrardoc, descriptografar, decifrardoc
 from tkinter.filedialog import askopenfilename
 
-tarefa = int(input("Escolha uma tarefa: \n1- Cifrar texto \n2 - Cifrar documento; \n3 - Decifrar Texto \n4 - Decifrar documento \n9 - Sair"))
+tarefa = int(input("Escolha uma tarefa: \n1- Cifrar texto \n2 - Cifrar documento; \n3 - Decifrar Texto \n4 - Decifrar documento \n9 - Sair\n"))
 continuar = True
 while continuar:
     if tarefa == 1:
