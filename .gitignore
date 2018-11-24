@@ -3,3 +3,5 @@
 stuff/*
 __pycache__/*
 */__pycache__/*
+*/drafts/*
+*/*/downloads/*
